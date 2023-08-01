@@ -1,4 +1,5 @@
 Descrição:
+
 O Gerador de Números da Loteria é um aplicativo Android desenvolvido em Kotlin como parte de um projeto de estudo e aprendizado. Este projeto tem o objetivo de explorar os conceitos de desenvolvimento de aplicativos móveis utilizando a linguagem Kotlin e o ambiente Android Studio.
 
 Recursos Principais:
