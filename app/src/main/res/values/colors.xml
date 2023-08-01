@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde_megasena">#009E4C</color>
+    <color name="roxo_lotofacil">#A7348B</color>
+    <color name="azul_quina">#45308F</color>
+    <color name="laranja_lotomania">#F39323</color>
+    <color name="blue_bakground">#084270</color>
+    <color name="verde_back">#00764E</color>
+    <color name="roxo_back">#8C0083</color>
+    <color name="azul_back">#270085</color>
+    <color name="laranja_back">#CA3E00</color>
+</resources>

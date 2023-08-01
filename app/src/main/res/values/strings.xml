@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumerosMegaSena</string>
+    <string name="megasena">MEGA-SENA</string>
+    <string name="palpite">PALPITES</string>
+    <string name="Boa_sorte">Boa sorte!</string>
+    <string name="number_hint">Informe um numero entre 6 e 15</string>
+    <string name="number_generater">Gerar</string>
+    <string name="number_hint_loto">Digite um numero entre 15 e 18</string>
+    <string name="number_hint_quina">Digite um numero entre 5 e 15</string>
+    <string name="number_hint_lotomania">Digite um numero de 10 a 50</string>
+</resources>

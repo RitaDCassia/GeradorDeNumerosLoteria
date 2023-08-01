@@ -1,0 +1,2 @@
+rootProject.name = "NumerosMegaSena"
+include ':app'
